@@ -463,7 +463,7 @@ marquee{
 /*============ Contact section ============*/
 
 #contact{
-  margin: 3em 0;
+  margin: 3em 0 0 0;
   padding: 3em;
   background-color: lightgray;
 }
